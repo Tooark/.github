@@ -5,7 +5,7 @@ GitHub: https://github.com/Tooark
 
 ## Sobre
 
-**Tooark** é uma organização dedicada a projetos de software e ferramentas web mantidos por Paulo S. Júnior e colaboradores. Nosso foco inclui extensões, bibliotecas e utilitários que facilitam desenvolvimento, automação e experiências web modernas.
+**Tooark** é uma organização dedicada a projetos de software e ferramentas web mantidos por Paulo Freitas e colaboradores. Nosso foco inclui extensões, bibliotecas e utilitários que facilitam desenvolvimento, automação e experiências web modernas.
 
 **Missão:** criar e manter projetos úteis, bem documentados e fáceis de contribuir.
 **Visão:** compartilhar soluções abertas que acelerem o trabalho de desenvolvedores e equipes.
